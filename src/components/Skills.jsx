@@ -1,11 +1,7 @@
-import { FaPython } from "react-icons/fa";
+import { FaPython, FaHtml5, FaCss3Alt} from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
-import { FaHtml5 } from "react-icons/fa";
-import { FaCss3Alt } from "react-icons/fa";
-import { TbLetterCSmall } from "react-icons/tb";
-import { TbBrandCpp } from "react-icons/tb";
-import { RiReactjsLine } from "react-icons/ri"
-import { RiTailwindCssFill } from "react-icons/ri";
+import { TbLetterCSmall, TbBrandCpp } from "react-icons/tb";
+import { RiReactjsLine, RiTailwindCssFill } from "react-icons/ri"
 import { motion } from "framer-motion"
 
 const iconVariants = (duration) => ({
