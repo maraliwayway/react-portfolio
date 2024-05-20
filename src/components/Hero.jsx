@@ -40,7 +40,7 @@ const Hero = () => {
                         initial={{ x:100, opacity: 0}}
                         animate={{ x: 0, opacity: 1}}
                         transition={{ duration: 1, delay: 1.2 }}
-                        className="rounded-full bg-cyan-500 shadow-lg shadow-cyan-500/50" src={profilePic} alt="Mara" />
+                        className="rounded-full bg-cyan-500 shadow-lg shadow-cyan-500/50" src={profilePic} alt="Mara" title="Mara Liwayway David"/>
                 </div>
             </div>
         </div>

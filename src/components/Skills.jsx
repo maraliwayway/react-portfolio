@@ -2,6 +2,8 @@ import { FaPython } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
+import { TbLetterCSmall } from "react-icons/tb";
+import { TbBrandCpp } from "react-icons/tb";
 import { RiReactjsLine } from "react-icons/ri"
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion"
@@ -21,7 +23,7 @@ const iconVariants = (duration) => ({
 
 const Skills = () => {
   return (
-    <div className="pb-20">
+    <div className="pb-20 pt-20">
         <motion.h2
             whileInView={{ opacity: 1, y: 0}}
             initial={{ opacity: 0, y: -100 }}
@@ -39,7 +41,7 @@ const Skills = () => {
                 initial="initial"
                 animate="animate"
                 className="p-4">
-                <FaPython className="text-7xl text-cyan-500" />
+                <FaPython className="text-7xl text-cyan-500" title="Python"/>
             </motion.div>
 
             <motion.div
@@ -47,31 +49,15 @@ const Skills = () => {
                 initial="initial"
                 animate="animate"
                 className="p-4">
-                <DiJavascript1 className="text-7xl text-cyan-500" />
+                <DiJavascript1 className="text-7xl text-cyan-500" title="Javascript"/>
             </motion.div>
 
             <motion.div
-                variants={iconVariants(3.5)}
+                variants={iconVariants(2.5)}
                 initial="initial"
                 animate="animate"
                 className="p-4">
-                <FaHtml5 className="text-7xl text-cyan-500" />
-            </motion.div>
-
-            <motion.div
-                variants={iconVariants(4)}
-                initial="initial"
-                animate="animate"
-                className="p-4">
-                <FaCss3Alt className="text-7xl text-cyan-500" />
-            </motion.div>
-
-            <motion.div
-                variants={iconVariants(4.5)}
-                initial="initial"
-                animate="animate"
-                className="p-4">
-                <RiReactjsLine className="text-7xl text-cyan-500" />
+                <FaHtml5 className="text-7xl text-cyan-500" title="HTML"/>
             </motion.div>
 
             <motion.div
@@ -79,7 +65,39 @@ const Skills = () => {
                 initial="initial"
                 animate="animate"
                 className="p-4">
-                <RiTailwindCssFill className="text-7xl text-cyan-500" />
+                <FaCss3Alt className="text-7xl text-cyan-500" title="CSS" />
+            </motion.div>
+
+            <motion.div
+                variants={iconVariants(2.5)}
+                initial="initial"
+                animate="animate"
+                className="p-4">
+                <TbLetterCSmall className="text-7xl text-cyan-500" title="C" />
+            </motion.div>
+
+            <motion.div
+                variants={iconVariants(3)}
+                initial="initial"
+                animate="animate"
+                className="p-4">
+                <TbBrandCpp className="text-7xl text-cyan-500" title="C++" />
+            </motion.div>
+
+            <motion.div
+                variants={iconVariants(2.5)}
+                initial="initial"
+                animate="animate"
+                className="p-4">
+                <RiReactjsLine className="text-7xl text-cyan-500" title="React" />
+            </motion.div>
+
+            <motion.div
+                variants={iconVariants(3)}
+                initial="initial"
+                animate="animate"
+                className="p-4">
+                <RiTailwindCssFill className="text-7xl text-cyan-500" title="Tailwind CSS"/>
             </motion.div>
         </motion.div>
     </div>
