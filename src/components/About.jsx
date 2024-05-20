@@ -4,7 +4,7 @@ import { ABOUT_TEXT } from "../constants"
 const About = () => {
   return (
     <div className="pb-4">
-        <h2 className="my-10 text-center text-4xl">
+        <h2 className="my-10 text-center text-4xl font-bold">
             About <span className="text-neutral-500"> Me </span>
         </h2>
         <div className="flex items-center justify-center">

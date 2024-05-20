@@ -1,6 +1,6 @@
 import project3 from "../assets/projects/project-3.jpg";
 
-export const HERO_CONTENT = "I'm Mara Liwayway David, a second-year Computing Science student at Simon Fraser University. I am an active advocate of fostering fun and inclusive learning environments. When I'm offline, I'm usually jamming out with my vocals, reading, or spending time outdoors!";
+export const HERO_CONTENT = "I'm Mara Liwayway David, a second-year Computing Science student at Simon Fraser University. I am an active advocate of fostering fun and inclusive learning environments. When I'm offline, I'm usually jamming out with my vocals, reading, or spending time outdoors! I'm Mara Liwayway David, a second-year Computing Science student at Simon Fraser University. I am an active advocate of fostering fun and inclusive learning environments. When I'm offline, I'm usually jamming out with my vocals, reading, or spending time outdoors!";
 
 export const ABOUT_TEXT = `...`;
 

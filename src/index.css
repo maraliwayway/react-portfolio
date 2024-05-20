@@ -8,3 +8,7 @@
   font-family: "Inter", sans-serif;
 }
 
+.image-container img {
+  position: relative;
+  top: -20px; 
+}
