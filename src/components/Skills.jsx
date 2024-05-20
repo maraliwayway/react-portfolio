@@ -8,7 +8,7 @@ import { RiTailwindCssFill } from "react-icons/ri";
 const Skills = () => {
   return (
     <div className="pb-20">
-        <h2 className="my-20 text-center text-4xl font-bold">
+        <h2 className="my-20 text-center text-4xl font-semibold">
             Skills
         </h2>
         <div className="flex flex-wrap items-center justify-center gap-4">

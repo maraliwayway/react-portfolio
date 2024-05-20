@@ -6,7 +6,7 @@ const Hero = () => {
         <div className="flex flex-wrap items-center ">
             <div className="w-full lg:w-3/5">
                 <div className="flex flex-col items-center lg:items-start">
-                    <h1 className=" text-6xl lg:mt-16 lg:text-8xl font-semibold">
+                    <h1 className=" text-6xl lg:mt-16 lg:text-8xl font-medium">
                         Hi, I'm Mara 👋🏼
                     </h1>
                     <span className="font-light tracking-tight text-cyan-500 text-2xl lg:text-3xl pt-10">
