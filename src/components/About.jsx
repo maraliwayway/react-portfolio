@@ -3,7 +3,7 @@ import { ABOUT_TEXT } from "../constants"
 
 const About = () => {
   return (
-    <div className="pb-4">
+    <div className="pb-20 pt-20">
         <h2 className="my-10 text-center text-4xl font-bold">
             About Me
         </h2>
