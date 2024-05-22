@@ -15,7 +15,7 @@ const Footer = () => {
             initial={{ opacity: 0, y: -100 }}
             transition={{ duration: 1}}
             className="text-center mb-4 text-neutral-400">
-            Mara Liwayway David, 2024
+            Mara Liwayway David, May 2024
         </motion.p>
     </div>
   )

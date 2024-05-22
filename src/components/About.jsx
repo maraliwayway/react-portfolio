@@ -19,8 +19,8 @@ const About = () => {
                 initial={{ opacity: 0, x: -100 }}
                 transition={{ duration: 1.5 }}
                 className="w-full lg:w-1/2 lg:p-8">
-                <div className="flex items-center justify-center">
-                    <img className="bg-cyan-500 shadow-lg shadow-cyan-500/50 rounded-2xl w-90 h-90" src={aboutImg} alt="About Me" title="About Me" />
+                <div className="flex items-center justify-center pt-5">
+                    <img className="bg-cyan-500 shadow-lg shadow-cyan-500/50 rounded-2xl" src={aboutImg} alt="About Me" title="About Me" />
                 </div>
             </motion.div>
 
@@ -32,7 +32,7 @@ const About = () => {
 
                 <div className="flex flex-col">
                 <p className="my-2 max-w-xl py-2">
-                    I'm <span className="font-bold text-cyan-500"> Mara Liwayway David </span>, a second-year undergraduate student at <span className="text-cyan-500"> Simon Fraser University </span>, pursuing a <span className="text-cyan-500"> Bachelor of Science </span> in <span className="text-cyan-500"> Computing Science </span>.
+                    I'm <span className="font-bold text-cyan-500"> Mara Liwayway David </span>, a second-year undergraduate student at <span className="text-cyan-500"> Simon Fraser University </span>, pursuing a <span className="text-cyan-500"> Bachelor of Science </span> in <span className="text-cyan-500"> Computing Science </span>. At school, I'm usually studying, hanging out in the SUB, or helping out with <span className="text-cyan-500"> SFU Women in Computing Science </span>!
                 </p>
 
                 <p className="my-2 max-w-xl py-2">

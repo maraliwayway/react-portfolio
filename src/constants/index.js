@@ -1,4 +1,3 @@
-import project3 from "../assets/projects/project-3.jpg";
 
 export const EXPERIENCES = [
   {
@@ -24,12 +23,3 @@ export const EXPERIENCES = [
   },
 ];
 
-export const PROJECTS = [
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing skills and experience.",
-    technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
-  },
-];
