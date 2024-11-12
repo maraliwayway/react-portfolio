@@ -1,6 +1,6 @@
-# Welcome to the Project!
+# Mara's React Portfolio
 
-Thank you for checking out this project! Follow the steps below to get everything up and running quickly. 
+To view the project, either follow the steps below or visit the Vercel link provided by this repo (Or do both! Do as you please!)
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@ Before you begin, make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
-If you're using a terminal on a Mac/Linux system, or a command prompt on Windows, the following steps should work.
+If you're using a terminal on a Mac/Linux system, or a command prompt on Windows, please follow the steps below.
 
 ## Installation Steps
 
@@ -45,17 +45,10 @@ If you're using a terminal on a Mac/Linux system, or a command prompt on Windows
 
 ### 4. Open the Project in Your Browser
 
-- Open your browser and navigate to the local link:
-    ```
-    http://localhost:3000
-    ```
-
-- You should now see your project running with Tailwind CSS!
+- Open your browser and navigate to the local link shown in your terminal.
 
 ## Enjoy!
 
-That’s it! You're all set up and ready to go. If you have any questions or run into any issues, feel free to reach out. Enjoy building with Tailwind CSS!
+That’s it! You're all set up and ready to go 😊
 
 ---
-
-Happy coding! 😊
