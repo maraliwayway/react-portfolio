@@ -1,5 +1,7 @@
 # Mara's React Portfolio
 
+Thanks for visiting! This project is a simple portfolio coded using React and Tailwind displaying more about me and my professional experiences. The portfolio was last updated in May 2024.
+
 To view the project, either follow the steps below or visit the Vercel link provided by this repo (Or do both! Do as you please!)
 
 ## Prerequisites
