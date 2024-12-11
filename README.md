@@ -5,7 +5,7 @@ _Last updated: May 2024_
 
 Visit the website [here](https://maraliwayway.com/)
 
-If you would like to download the project on your local machine, before you begin, make sure you have the following installed on your machine:
+If you would like to download the project on your local machine, before you begin, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
@@ -13,7 +13,7 @@ Now, follow the steps below!
 
 ### 1. Download the Repository
 
-- Download a ZIP file of this repository and extract it to a folder on your computer.
+- Download a ZIP file of this repository and extract it to a folder on your computer
 
 ### 2. Install Dependencies
 
@@ -39,8 +39,6 @@ Now, follow the steps below!
     ```bash
     npm run dev
     ```
-
-- This will build and serve your project locally.
 
 ### 4. Open the Project in Your Browser
 
