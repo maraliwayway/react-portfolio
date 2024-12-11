@@ -1,7 +1,7 @@
 
 # Mara's React Portfolio
 
-Last updated: May 2024
+_Last updated: May 2024_
 
 Visit the website [here](https://maraliwayway.com/)
 
