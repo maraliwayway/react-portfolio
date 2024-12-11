@@ -42,6 +42,6 @@ Now, follow the steps below!
 
 ### 4. Open the Project in Your Browser
 
-- Open your browser and navigate to the local link shown in your terminal.
+- Open your browser and navigate to the local link shown in your terminal
   
 ---
